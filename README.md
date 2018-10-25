@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Author C
-=======
-Author B
->>>>>>> devel
+Author F
